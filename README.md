@@ -10,18 +10,12 @@ Language: German
 
 - First Git Release after move from Bitbucket to Github
 
-### Features
-
-- Homepage adjusts to diffrent Screensizes
-- Possibility to see pics in a bigger version via click on the pic
-- Free Cookie Consent Tool from Osano integrated
-- Curtain Menu via complete page  
 
 ### Architecture
 
 - Classic Approch: Use of CSS/HTML/JS
 
-### Used foreign SW
+### Used foreign Libs
 
 - Bootstrag 4.5
 - JQuery
@@ -31,3 +25,18 @@ Language: German
 ### Owner
 
 Maren Meyer
+
+### Releases
+
+#### Release 2.0:
+
+Funcionalities:
+
+- New Cookie Tool: Use of Cookie Consent Tool from Osano
+- Add of a favicon
+- Possibility of see photos in a bigger size
+
+Content: 
+- New Page about Iguazu
+- Update Index Page about up-to-date Covid situation in Argentina 
+
