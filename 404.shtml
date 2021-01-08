@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="de">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="static/images/favicon3.png">
+    <link rel="stylesheet" type="text/css" href="bootstrap-4.5.0-dist/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="static/css/404_style.css">
+    <script type="text/javascript" src="jQuery/js/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="Popper1.14.3/js/popper.min.js"></script>
+    <script type="text/javascript" src="bootstrap-4.5.0-dist/js/bootstrap.min.js"></script>
+    <TITLE>404 Not Found - abenteuer-argentina.de</TITLE>
+</head>
+<body>
+    <div class="background-light">
+
+    </div>
+    <div class="content align-self-center">
+        <div class="align-self-center">
+            <img class="img-fluid" alt="Guanaco in Patagonia" src="static/images/404_Guanaco.png" />
+        </div>
+        <div class="align-self-center">
+            <h1>Lost in Patagonia </h1>
+            <h2>404</h2>
+            <p>
+                Da hat sich wohl jemand verirrt! Die gesuchte Seite <!--#echo var="REQUEST_URI" --> existiert nicht.
+                <i><!--#echo var="HTTP_HOST" --></i>
+                Hier kommst du zurück auf die <a class="text-success" href="index.html">Hauptseite</a> !
+            </p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
