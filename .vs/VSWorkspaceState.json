@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\buenos_aires",
+    "\\static",
+    "\\static\\css",
+    "\\static\\images",
     "\\static\\js"
   ],
-  "SelectedNode": "\\sitemape.txt",
+  "SelectedNode": "\\static\\css\\stylesheet_index.css",
   "PreviewInSolutionExplorer": false
 }
