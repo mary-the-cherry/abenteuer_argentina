@@ -2,14 +2,41 @@
 
 ### About
 
-Homepage about Buenos Aires and Patagonia, Food in Argentina, Culture
+Homepage about Buenos Aires, Patagonia, Food in Argentina and Culture
 
 Language: German
 
 ### Release 
 
-- First Git Release after move from Bitbucket to Github
+#### Release 1.0
+- Part about Northern Patagonia, 
+- Part about Southern Patagonia,
+- Part about Buenos Aires
+- Part about Argentinian Food, 
+- Part about General Stuff
+- Part about ME
 
+#### Release 2.0 (actual deployed)
+
+Funcionalities:
+
+- New Cookie Tool: Use of Cookie Consent Tool from Osano
+- Add of a favicon
+- Possibility of see photos in a bigger size
+
+Content: 
+- New Page about Iguazu
+- Update Index Page about up-to-date Covid situation in Argentina 
+
+#### Release 3.0 (planned)
+
+- Update Bariloche (Aussichtspunkt Llao Llao, Refugio Lopez) (Done)
+- Update Restaurants in Buenos Aires, Fotos for Parks in Buenos Aires
+- Update Restaurants Villa La Angostura
+- Add Hike to Waterfall in San Martin
+- Add Hike in Lanin
+- Add Villa Pehuinia
+- Add Caviahue
 
 ### Architecture
 
@@ -26,17 +53,5 @@ Language: German
 
 Maren Meyer
 
-### Releases
 
-#### Release 2.0:
-
-Funcionalities:
-
-- New Cookie Tool: Use of Cookie Consent Tool from Osano
-- Add of a favicon
-- Possibility of see photos in a bigger size
-
-Content: 
-- New Page about Iguazu
-- Update Index Page about up-to-date Covid situation in Argentina 
 
