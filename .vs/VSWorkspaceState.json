@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\static",
-    "\\static\\css",
-    "\\static\\images",
+    "\\nordpatagonia",
+    "\\static\\css\\Dosis",
     "\\static\\js"
   ],
-  "SelectedNode": "\\static\\css\\stylesheet_index.css",
+  "SelectedNode": "\\nordpatagonia\\bariloche.html",
   "PreviewInSolutionExplorer": false
 }
