@@ -16,7 +16,7 @@ Language: German
 - Part about General Stuff
 - Part about ME
 
-#### Release 2.0 (actual deployed)
+#### Release 2.0
 
 Funcionalities:
 
@@ -28,15 +28,19 @@ Content:
 - New Page about Iguazu
 - Update Index Page about up-to-date Covid situation in Argentina 
 
-#### Release 3.0 (planned)
+#### Release 3.0 (actual deployed)
 
 - Update Bariloche (Aussichtspunkt Llao Llao, Refugio Lopez) (Done)
 - Update Restaurants in Buenos Aires, Fotos for Parks in Buenos Aires
 - Update Restaurants Villa La Angostura
 - Add Hike to Waterfall in San Martin
 - Add Hike in Lanin
+
+#### Release 4.0 (planned)
+
 - Add Villa Pehuinia
 - Add Caviahue
+- Update of Key Facts 
 
 ### Architecture
 
@@ -53,5 +57,6 @@ Content:
 
 Maren Meyer
 
+### Pre-Version of the site
 
-
+https://zealous-sammet-d11497.netlify.app/
