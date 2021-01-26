@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\buenos_aires",
-    "\\nordpatagonia"
+    "\\common",
+    "\\nordpatagonia",
+    "\\static",
+    "\\static\\css"
   ],
-  "SelectedNode": "\\buenos_aires\\buenos_aires_essen.html",
+  "SelectedNode": "\\static\\css\\common_snippets1_2.css",
   "PreviewInSolutionExplorer": false
 }
