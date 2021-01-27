@@ -57,19 +57,33 @@
   	transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
 
-.overlay{
+.overlay-reiseziele {
+	background-image: url("../images/Background_SubMenu.jpg");
+	background-color: #343a40;
+	background-position: center;
+	background-size: cover;
+	overflow: hidden;
+	
+}
+
+
+.overlay-planung {
+	background-image: url("../images/Background_Overlay_Planung2.jpg");
+	background-color: #343a40;
+	background-position: center;
+	background-size: cover;
+	overflow: hidden;
+	
+}
+
+.overlay {
 	height: 0;
-    width: 100%;
+	width: 100%;
 	position: fixed;
 	z-index: 50;
 	left: 0;
 	top: 70px;
-	background-image: url("../images/Background_SubMenu.jpg");
-	background-color:#343a40;
-	background-position: center;
-	background-size: cover;
-	overflow: hidden;
-	transition: 0.5s; 
+	transition: 0.5s;
 }
 
 
@@ -96,12 +110,12 @@
   display: block; 
 }
 
-.closeBtn{
-  font-family: Dosis;
-  position: absolute;
-  top: 20px;
-  right: 45px;
-  font-size: 30px;
+.closeBtn, .closeBtnPlanung {
+	font-family: Dosis;
+	position: absolute;
+	top: 20px;
+	right: 45px;
+	font-size: 30px;
 }
 
 @media screen and (max-width: 992px) {
