@@ -110,11 +110,30 @@
 	}
 	.inline_wrapper_6_cards .card{
 			display:inline-block;
-			width:140px;width:140px;
+			width:140px;
 			}
 	.card-title{
 		white-space: normal;
 	}	
+}
+
+.inline_wrapper_10_cards {
+	overflow-x: auto;
+	overflow-y: hidden;
+	white-space: nowrap;
+	-webkit-overflow-scrolling: touch;
+	::-webkit-scrollbar{
+	display: none;}
+}
+
+.inline_wrapper_10_cards .card {
+	display: inline-block;
+	width: 200px;
+
+}
+
+.inline_wrapper_10_cards .heading_h2_bigger {
+	white-space: normal;
 }
 
 
@@ -156,9 +175,37 @@
 	z-index: 1;
 }
 
+.responding_font_size {
+	font-size: 1.2em;
+}
+
+@media only screen and (max-width: 1400px) {
+	.responding_font_size {
+		font-size: 1em;
+	}
+}
+
+@media only screen and (max-width: 1110px) {
+	.responding_font_size {
+		font-size: 0.80em;
+	}
+}
+
 @media only screen and (max-width: 960px) {
-	.responding_font_size{
-		font-size:0.84em;
+	.white_bg_mobile {
+		background-color: white;
+		border: 1px solid black;
+		border-radius: 3px;
+		padding:0.5vh;
+		margin:0;
+		width: 95%;
+		height:95%;
+		
+	}
+
+	.responding_font_size {
+		font-size: 0.45em;
+		
 	}
 }
 
@@ -178,4 +225,100 @@
 	}
 }
 
+.bg-img-plant {
+	background-image: url("../images/Background_Plant_Bottom.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
 
+.heading_h2_bigger{
+	font-size: 3em;
+}
+
+/*----------------------Covid Btn---------------------------------*/
+
+
+.front-btn-img {
+	position: absolute;
+	top: 44%;
+	left: 10px;
+	width: 22%;
+	height: auto;
+	z-index: 100;
+	transform: rotate(-20deg);
+	transition: transform .5s ease;
+}
+
+	.front-btn-img:hover {
+		transform: scale(1.05) rotate(-10deg);
+	}
+
+		.front-btn-img:hover .pop_up_hover {
+			visibility: visible;
+		}
+
+
+.pop_up_hover {
+	background-color: black;
+	color: white;
+	font-size: 1em;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 5px;
+	position: absolute;
+	bottom: 18%;
+	left: 0;
+	visibility: hidden;
+}
+
+@media only screen and (max-width: 1024px) {
+	.front-btn-img {
+		position: absolute;
+		top: 16%;
+		left: 10px;
+		width: 20%;
+		height: auto;
+	}
+
+	.pop_up_hover {
+		bottom: 10%;
+	}
+
+	@media only screen and (max-width: 720px) {
+		.front-btn-img {
+			position: absolute;
+			top: 14%;
+			left: 10px;
+			width: 20%;
+			height: auto;
+		}
+
+		.pop_up_hover {
+			bottom: 5%;
+		
+		}
+	}
+
+	@media only screen and (max-width: 576px) {
+		.front-btn-img {
+
+			display:none;
+		}
+
+		.pop_up_hover {
+			bottom: 5%;
+			display:none;
+		}
+	}
+}
+
+/* Inhaltsverzeichnis Style*/
+.content-menu p{
+	text-align:left;
+}
+
+.content-menu summary{
+	font-size:1.4em;
+}
