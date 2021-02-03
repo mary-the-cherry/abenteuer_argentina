@@ -225,11 +225,18 @@
 	}
 }
 
-.bg-img-plant {
+.bg-img-plant{
 	background-image: url("../images/Background_Plant_Bottom.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: bottom;
+}
+
+.bg-img-plant_left {
+	background-image: url("../images/Background_Plant_links.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: top;
 }
 
 .heading_h2_bigger{

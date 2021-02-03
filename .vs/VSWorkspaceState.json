@@ -3,9 +3,13 @@
     "",
     "\\common",
     "\\nordpatagonia",
+    "\\reiseplanung",
     "\\static",
-    "\\static\\css"
+    "\\static\\css",
+    "\\static\\js",
+    "\\suedpatagonia",
+    "\\Update_Homepage"
   ],
-  "SelectedNode": "\\static\\css\\common_snippets1_2.css",
+  "SelectedNode": "\\reiseplanung\\packliste_argentinien.html",
   "PreviewInSolutionExplorer": false
 }
