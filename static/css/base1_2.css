@@ -1,38 +1,38 @@
 /*-----------Cookies-----------------*/
 #cookie-law {
-    display: flex;
-    align-items: center;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 20px 5%;
-    background-color: #343a40;
-    color:white;
-    z-index: 999; 
+  display: flex;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px 5%;
+  background-color: #343a40;
+  color: white;
+  z-index: 999;
 }
 
 #cookie-law > div {
 }
 
 #cookie-law > div:first-child {
-    padding-right: 40px;
+  padding-right: 40px;
 }
 
 #cookie-law > div:first-child > a {
-    color: inherit;
+  color: inherit;
 }
 
 #cookie-law > div:last-child {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 #cookie-law > div:last-child > a {
-    padding: 10px 20px;
-    background-color: white;
-    border-radius: 5px;
-    color: black;
-    text-decoration: none;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+  text-decoration: none;
 }
 
 /*------------Fonts -----------------*/
@@ -48,118 +48,123 @@
   font-weight: bold;
 }
 
-h1{
-	font-family: Dosis;
+h1 {
+  font-family: Dosis;
 }
 
 /*----------Layout--------------------*/
 
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 576px) {
-	html{
-		margin-top:60px;
-	}
+  html {
+    margin-top: 60px;
+  }
 }
 
 /*--------------------------General-------------------------- */
 
-.box-shadow-cards{
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.box-shadow-cards {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-h1{
-	font-family: Dosis, sans-serif;
-
+h1 {
+  font-family: Dosis, sans-serif;
 }
 
-h2,h3,h4,h5,summary{
-	font-family: Dosis, sans-serif;
+h2,
+h3,
+h4,
+h5,
+summary {
+  font-family: Dosis, sans-serif;
 }
 
 /*Card General*/
 
-.card h2,h4{
-	text-align:center;
+.card h2,
+h4 {
+  text-align: center;
 }
 
-.card p{
-	text-align:center;	
+.card p {
+  text-align: center;
 }
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  [class*="col-"] {
+  [class*='col-'] {
     width: 100%;
   }
 }
 
 /*Backgrounds General*/
 
- .container-dark{
- 	background: #343a40;
- 	z-index:-10;
- }
-
-.container-light{
-	background: #f8f9fa;
-	z-index:-10;
+.container-dark {
+  background: #343a40;
+  z-index: -10;
 }
 
-.container-padding{
-	padding: 2vw;
+.container-light {
+  background: #f8f9fa;
+  z-index: -10;
 }
 
-.container-margin{
-	margin:2vw;
+.container-padding {
+  padding: 2vw;
 }
 
-.card-rotation1{
-	transform:rotate(3deg);
+.container-margin {
+  margin: 2vw;
 }
 
-.card-rotation2{
-	transform:rotate(-4deg);
+.card-rotation1 {
+  transform: rotate(3deg);
 }
 
-.card-rotation3{
-	transform:rotate(2deg);	
-}
-.card-rotation4{
-	transform:rotate(-1deg);
+.card-rotation2 {
+  transform: rotate(-4deg);
 }
 
+.card-rotation3 {
+  transform: rotate(2deg);
+}
+.card-rotation4 {
+  transform: rotate(-1deg);
+}
 
 /*--------------------General information-------------------------------*/
 
-.generalinformation{
-	margin:3vw auto;
+.generalinformation {
+  margin: 3vw auto;
 }
 
-.generalinformation tr, .generalinformation td, .generalinformation th{
-	padding:11px;
+.generalinformation tr,
+.generalinformation td,
+.generalinformation th {
+  padding: 11px;
 }
 
-.generalinformation img{
-	padding:1vw;
+.generalinformation img {
+  padding: 1vw;
 }
 
 /*--------------------About me------------------------------------------*/
 
-.double-colmun-about-me{
-	padding: 3vh 1vw 3vh 1vw;
+.double-colmun-about-me {
+  padding: 3vh 1vw 3vh 1vw;
 }
 
 /*----------------------Modal pictures-----------------------------------*/
 
 @media screen and (min-width: 700px) {
-	.modal_possibility:hover, .modal_possibility:focus{
-		cursor: pointer;
-	}
-	
+  .modal_possibility:hover,
+  .modal_possibility:focus {
+    cursor: pointer;
+  }
 }
 
 .modal {
@@ -172,17 +177,17 @@ h2,h3,h4,h5,summary{
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.9); /* Black w/ opacity */
 }
 
 .modal-content {
   margin: auto;
   display: block;
-  width:auto;
-  height:auto;
-  max-width: 1500px;  
-  max-height:90%;
+  width: auto;
+  height: auto;
+  max-width: 1500px;
+  max-height: 90%;
   object-fit: scale-down;
 }
 
@@ -191,13 +196,18 @@ h2,h3,h4,h5,summary{
   animation-duration: 0.6s;
 }
 
-.modal-content:hover, modal-content:focus{
-	cursor: pointer;
+.modal-content:hover,
+modal-content:focus {
+  cursor: pointer;
 }
 
 @keyframes zoom {
-  from {transform:scale(0)}
-  to {transform:scale(1)}
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
 }
 
 /* The Close Button */
@@ -216,4 +226,184 @@ h2,h3,h4,h5,summary{
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
+}
+
+
+/*---------------------Wrapper Links-------------------*/
+
+.background_font {
+    position: relative;
+}
+
+.background_font_title {
+    position: relative;
+    z-index: 5;
+}
+
+.background_font-img {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+
+.responding_font_size {
+    font-size: 1.2em;
+}
+
+@media only screen and (max-width: 1400px) {
+    .responding_font_size {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (max-width: 1110px) {
+    .responding_font_size {
+        font-size: 0.8em;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    .white_bg_mobile {
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 3px;
+        padding: 0.5vh;
+        margin: 0;
+        width: 95%;
+        height: 95%;
+    }
+
+    .responding_font_size {
+        font-size: 0.45em;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+    .heading_link_area {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .heading_link_area {
+        font-size: 1.8em;
+    }
+
+    .background_font-img {
+        display: none;
+    }
+}
+
+.destination_places {
+    padding-bottom: 4vh;
+    padding-top: 1vh;
+}
+
+    .destination_places h1 {
+        font-size: calc(12px + 4vw);
+        font-stretch: 150%;
+        text-align: left;
+    }
+
+    .destination_places .card {
+        transition: transform 0.5s ease;
+        max-width: 400px;
+        margin-left: 0.7vw;
+        margin-right: 0.7vw;
+        margin-top: 0.5vw;
+        margin-bottom: 2vw;
+        min-width: 140px;
+    }
+
+        .destination_places .card:hover {
+            transform: scale(1.05);
+        }
+
+@media only screen and (min-width: 801px) {
+    .inline_wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .inline_wrapper {
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        :: -webkit-scrollbar
+
+{
+    display: none;
+}
+
+}
+
+.inline_wrapper .card {
+    display: inline-block;
+    width: 140px;
+    width: 140px;
+}
+
+.card-title {
+    white-space: normal;
+}
+
+}
+
+@media only screen and (min-width: 1001px) {
+    .inline_wrapper_6_cards {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .inline_wrapper_6_cards {
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        :: -webkit-scrollbar
+
+{
+    display: none;
+}
+
+}
+
+.inline_wrapper_6_cards .card {
+    display: inline-block;
+    width: 140px;
+}
+
+.card-title {
+    white-space: normal;
+}
+
+}
+
+.inline_wrapper_10_cards {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    :: -webkit-scrollbar
+
+{
+    display: none;
+}
+
+}
+
+.inline_wrapper_10_cards .card {
+    display: inline-block;
+    width: 200px;
+}
+
+.inline_wrapper_10_cards .heading_h2_bigger {
+    white-space: normal;
 }

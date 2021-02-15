@@ -1,137 +1,137 @@
 /*--------------------------Region---------------------------- */
 
-.title-destination{
-	margin-top:2vh;
-	margin-bottom:2vh;
-	text-align:center;
+.title-destination {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  text-align: center;
 }
 
-.title-destination h1, .destination-maintext h1{
-	text-align:center;
-	margin-bottom:2vh;
-	font-size: calc(20px + 2.5vw);
+.title-destination h1,
+.destination-maintext h1 {
+  text-align: center;
+  margin-bottom: 2vh;
+  font-size: calc(20px + 2.5vw);
 }
 
-.title-destination h5{
-	text-align:center;
+.title-destination h5 {
+  text-align: center;
 }
 
-.destinationroute{
-	margin-top:5vh;
-	margin-bottom:5vh;
+.destinationroute {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
 }
 
-.destinationroute img{
-	margin:1vw;
-	width:95%;
-	height:auto;
+.destinationroute img {
+  margin: 1vw;
+  width: 95%;
+  height: auto;
 }
 
-.bg-container-fluid-light_destination{
-	position: absolute;
- 	background: #f8f9fa;
- 	height:720px;
- 	bottom:0px;
- 	z-index:-5;
+.bg-container-fluid-light_destination {
+  position: absolute;
+  background: #f8f9fa;
+  height: 720px;
+  bottom: 0px;
+  z-index: -5;
 }
 
-.destination_places{
-	padding-bottom:4vh;
-	padding-top:1vh;
+.destination_places {
+  padding-bottom: 4vh;
+  padding-top: 1vh;
 }
 
-.destination_places h1{
-	font-size: calc(12px + 4vw);
-	font-stretch: 150%;
-	text-align:left;
+.destination_places h1 {
+  font-size: calc(12px + 4vw);
+  font-stretch: 150%;
+  text-align: left;
 }
 
-.destination_places .card{
-	transition: transform .5s ease;
-	max-width: 400px;
-	margin-left: 0.7vw;
-	margin-right:0.7vw;
-	margin-top:0.5vw;
-	margin-bottom:2vw;
- 	min-width:140px;
-	
+.destination_places .card {
+  transition: transform 0.5s ease;
+  max-width: 400px;
+  margin-left: 0.7vw;
+  margin-right: 0.7vw;
+  margin-top: 0.5vw;
+  margin-bottom: 2vw;
+  min-width: 140px;
 }
 
-.destination_places .card:hover{
-	transform: scale(1.05);
+.destination_places .card:hover {
+  transform: scale(1.05);
 }
 
-@media only screen and (min-width: 801px){
-	.inline_wrapper{
-		display: flex;
-		flex-direction: row;
-		flex-wrap: nowrap;
-		}
-	}
-
-@media only screen and (max-width: 800px){
-	.inline_wrapper{
-		overflow-x: auto;
-		overflow-y: hidden;
-		white-space: nowrap;
-		-webkit-overflow-scrolling: touch;
-  		::-webkit-scrollbar {
-    		display: none;
-  			}
-		}
-		.inline_wrapper .card{
-			display:inline-block;
-			width:140px;width:140px;
-			}
-		.card-title{
-			white-space: normal;
-		}		
-	}
-	
-@media only screen and (min-width: 1001px){
-	.inline_wrapper_6_cards{
-		display: flex;
-		flex-direction: row;
-		flex-wrap: nowrap;
-		}
-	}
-
-@media only screen and (max-width: 1000px){
-	.inline_wrapper_6_cards{
-		overflow-x: auto;
-		overflow-y: hidden;
-		white-space: nowrap;
-		-webkit-overflow-scrolling: touch;
-  		::-webkit-scrollbar {
-    		display: none;
-  			}
-	}
-	.inline_wrapper_6_cards .card{
-			display:inline-block;
-			width:140px;width:140px;
-			}
-	.card-title{
-		white-space: normal;
-	}	
+@media only screen and (min-width: 801px) {
+  .inline_wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
 }
 
-
-.good-to-know{
-	padding-bottom:7vh;
-	padding-top:7vh;
+@media only screen and (max-width: 800px) {
+  .inline_wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  }
+  .inline_wrapper .card {
+    display: inline-block;
+    width: 140px;
+    width: 140px;
+  }
+  .card-title {
+    white-space: normal;
+  }
 }
 
-.good-to-know .picture-container{
-	position: relative;
- 	text-align: center;
-  	color: white;
+@media only screen and (min-width: 1001px) {
+  .inline_wrapper_6_cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
 }
 
-.good-to-know img{
-	margin-top:1vh;
-	margin-bottom:3vh;
-	width: 80%;
-	height:auto;
-	z-index:1;
+@media only screen and (max-width: 1000px) {
+  .inline_wrapper_6_cards {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  }
+  .inline_wrapper_6_cards .card {
+    display: inline-block;
+    width: 140px;
+    width: 140px;
+  }
+  .card-title {
+    white-space: normal;
+  }
 }
 
+.good-to-know {
+  padding-bottom: 7vh;
+  padding-top: 7vh;
+}
+
+.good-to-know .picture-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.good-to-know img {
+  margin-top: 1vh;
+  margin-bottom: 3vh;
+  width: 80%;
+  height: auto;
+  z-index: 1;
+}

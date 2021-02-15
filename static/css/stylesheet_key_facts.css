@@ -1,92 +1,86 @@
 .fact-card-argentina {
-    padding: 1vw;
-    border: 2px solid black;
-    border-radius: 10px;
-    background-color: #f8f9fa;
-    margin:1vh;
+  padding: 1vw;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #f8f9fa;
+  margin: 1vh;
 }
 
 .underline {
-    position: relative;
-    bottom: 1.5vh;
-    z-index: 10;
+  position: relative;
+  bottom: 1.5vh;
+  z-index: 10;
 }
 
 /*--------------------------Covid Btn--------------------------*/
 
 .front-btn-img {
-    position: absolute;
-    top: 45%;
-    left: 30px;
-    width: 22%;
-    height: auto;
-    z-index: 100;
-    transform: rotate(-20deg);
-    transition: transform .5s ease;
+  position: absolute;
+  top: 45%;
+  left: 30px;
+  width: 22%;
+  height: auto;
+  z-index: 100;
+  transform: rotate(-20deg);
+  transition: transform 0.5s ease;
 }
 
-    .front-btn-img:hover {
-        transform: scale(1.05) rotate(-10deg);
-    }
+.front-btn-img:hover {
+  transform: scale(1.05) rotate(-10deg);
+}
 
-        .front-btn-img:hover .pop_up_hover {
-            visibility: visible;
-        }
-
+.front-btn-img:hover .pop_up_hover {
+  visibility: visible;
+}
 
 .pop_up_hover {
-    background-color: black;
-    color: white;
-    font-size: 1em;
-    text-align: center;
-    border: 1px solid black;
-    border-radius: 5px;
-    padding: 5px;
-    position: absolute;
-    bottom: 18%;
-    left: 0;
-    visibility: hidden;
+  background-color: black;
+  color: white;
+  font-size: 1em;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  position: absolute;
+  bottom: 18%;
+  left: 0;
+  visibility: hidden;
 }
 
 .bg-img-plant {
-    background-image: url("../images/Background_Plant_Bottom.png");
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: bottom;
+  background-image: url('../images/Background_Plant_Bottom.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 @media only screen and (max-width: 1024px) {
+  .front-btn-img {
+    position: absolute;
+    top: 20%;
+    left: 10px;
+    width: 20%;
+    height: auto;
+  }
+
+  .pop_up_hover {
+    bottom: 10%;
+  }
+
+  .bg-img-plant {
+    background-image: url('../images/Background_Plant_Bottom.png');
+    background-repeat: repeat-y;
+    background-position: top;
+    padding: 1vw;
+  }
+
+  @media only screen and (max-width: 576px) {
     .front-btn-img {
-        position: absolute;
-        top: 20%;
-        left: 10px;
-        width: 20%;
-        height: auto;
+      display: none;
     }
 
     .pop_up_hover {
-        bottom: 10%;
+      bottom: 5%;
     }
-
-    .bg-img-plant {
-        background-image: url("../images/Background_Plant_Bottom.png");
-        background-repeat:repeat-y;
-        background-position: top;
-        padding:1vw;
-    }
-
-    @media only screen and (max-width: 576px) {
-        .front-btn-img {
-            display:none;
-        }
-
-        .pop_up_hover {
-            bottom: 5%;
-        }
-
-    }
+  }
 }
-
-
-
-

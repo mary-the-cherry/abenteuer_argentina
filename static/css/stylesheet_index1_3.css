@@ -179,6 +179,7 @@
 	.pop_up_hover {
 		bottom: 10%;
 	}
+}
 
 @media only screen and (max-width: 576px) {
 	.front-btn-img {

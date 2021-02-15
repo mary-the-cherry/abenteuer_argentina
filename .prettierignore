@@ -1,0 +1,7 @@
+# Ignore artifacts:
+jQuery
+node_modules
+Popper1.14.3
+.htaccess
+README.md
+sitemape.txt
