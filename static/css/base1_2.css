@@ -230,6 +230,10 @@ modal-content:focus {
 
 
 /*---------------------Wrapper Links-------------------*/
+.heading_link_area {
+    font-size: 3em;
+}
+
 
 .background_font {
     position: relative;
@@ -391,11 +395,8 @@ modal-content:focus {
     overflow-y: hidden;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
-    :: -webkit-scrollbar
-
-{
-    display: none;
-}
+    :: -webkit-scrollbar{
+    display: none;}
 
 }
 
