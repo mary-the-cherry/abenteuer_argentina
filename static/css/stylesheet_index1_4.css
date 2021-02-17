@@ -97,6 +97,13 @@
     height: 100%;
     width:auto;
     object-fit: cover;
+   
+}
+
+@media only screen and (min-width: 1200px) {
+    .uber_mich img {
+        max-height: 700px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
