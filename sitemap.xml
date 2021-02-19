@@ -4,134 +4,179 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 	<url>
 		<loc>https://www.abenteuer-argentina.de/</loc>
-		<lastmod>2021-01-26T14:16:01+00:00</lastmod>
+		<lastmod>2021-02-18T14:30:18+00:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/suedpatagonien.html</loc>
-		<lastmod>2021-01-06T14:05:22+00:00</lastmod>
+		<lastmod>2021-02-17T12:20:52+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/nordpatagonien.html</loc>
-		<lastmod>2021-01-06T14:05:04+00:00</lastmod>
+		<lastmod>2021-02-17T12:20:26+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires.html</loc>
-		<lastmod>2021-01-06T14:04:04+00:00</lastmod>
+		<lastmod>2021-02-17T12:19:48+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/iguazu.html</loc>
-		<lastmod>2021-01-06T14:04:20+00:00</lastmod>
+		<lastmod>2021-02-17T12:19:58+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/reiseplanung/solotrip_argentinien.html</loc>
+		<lastmod>2021-02-17T12:25:06+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/reiseplanung/packliste_argentinien.html</loc>
+		<lastmod>2021-02-17T12:24:42+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/reiseplanung_argentinien.html</loc>
+		<lastmod>2021-02-17T12:20:34+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/about_me.html</loc>
-		<lastmod>2021-01-06T14:03:54+00:00</lastmod>
+		<lastmod>2021-02-17T12:19:38+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.abenteuer-argentina.de/nordpatagonia/bariloche.html</loc>
-		<lastmod>2021-01-14T09:06:02+00:00</lastmod>
+		<loc>https://www.abenteuer-argentina.de/reiseplanung/reiseplanung_patagonien.html</loc>
+		<lastmod>2021-02-17T12:24:58+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_parks.html</loc>
-		<lastmod>2021-01-18T11:29:46+00:00</lastmod>
+		<loc>https://www.abenteuer-argentina.de/reiseplanung/reiseerfahrungen_argentinien.html</loc>
+		<lastmod>2021-02-17T12:24:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/suedpatagonia/suedpatagonien_route.html</loc>
-		<lastmod>2021-01-06T15:05:04+00:00</lastmod>
+		<lastmod>2021-02-17T12:25:44+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/suedpatagonia/ushuaia.html</loc>
-		<lastmod>2021-01-06T15:05:18+00:00</lastmod>
+		<lastmod>2021-02-17T12:25:56+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/suedpatagonia/el_chalten.html</loc>
-		<lastmod>2021-01-06T15:04:52+00:00</lastmod>
+		<lastmod>2021-02-17T13:51:40+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/suedpatagonia/el_calafate.html</loc>
-		<lastmod>2021-01-06T15:04:46+00:00</lastmod>
+		<lastmod>2021-02-17T13:53:38+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/suedpatagonia/torres_del_paine.html</loc>
-		<lastmod>2021-01-06T15:05:12+00:00</lastmod>
+		<lastmod>2021-02-17T13:59:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/suedpatagonia/punta_arenas.html</loc>
-		<lastmod>2021-01-06T15:04:58+00:00</lastmod>
+		<lastmod>2021-02-17T12:25:38+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/nordpatagonia/nordpatagonien_rundreise.html</loc>
-		<lastmod>2021-01-06T15:04:20+00:00</lastmod>
+		<lastmod>2021-02-17T12:24:10+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/nordpatagonia/bariloche.html</loc>
+		<lastmod>2021-02-17T12:23:48+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/nordpatagonia/villa_la_angostura.html</loc>
-		<lastmod>2021-01-20T11:16:26+00:00</lastmod>
+		<lastmod>2021-02-17T12:24:32+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/nordpatagonia/sieben_seen.html</loc>
-		<lastmod>2021-01-20T11:55:48+00:00</lastmod>
+		<lastmod>2021-02-17T12:24:26+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/nordpatagonia/el_bolson.html</loc>
-		<lastmod>2021-01-06T15:04:12+00:00</lastmod>
+		<lastmod>2021-02-17T12:23:56+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/nordpatagonia/nordpatagonien_wandern.html</loc>
-		<lastmod>2021-01-11T15:16:40+00:00</lastmod>
+		<lastmod>2021-02-17T12:24:18+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_4_tage.html</loc>
-		<lastmod>2021-01-06T15:02:58+00:00</lastmod>
+		<lastmod>2021-02-17T12:22:30+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_sightseeing.html</loc>
-		<lastmod>2021-01-06T15:03:46+00:00</lastmod>
+		<lastmod>2021-02-17T12:23:04+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_museen.html</loc>
-		<lastmod>2021-01-06T15:03:40+00:00</lastmod>
+		<lastmod>2021-02-17T12:23:14+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_maerkte.html</loc>
-		<lastmod>2021-01-06T15:03:34+00:00</lastmod>
+		<lastmod>2021-02-17T12:23:20+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_parks.html</loc>
+		<lastmod>2021-02-17T12:23:08+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_essen.html</loc>
-		<lastmod>2021-01-18T12:56:30+00:00</lastmod>
+		<lastmod>2021-02-17T13:19:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_ausfluege.html</loc>
-		<lastmod>2021-01-06T15:03:22+00:00</lastmod>
+		<lastmod>2021-02-17T13:19:42+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/index.html</loc>
-		<lastmod>2021-01-26T14:16:01+00:00</lastmod>
+		<lastmod>2021-02-18T14:30:18+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/rundreiserouten.html</loc>
+		<lastmod>2021-02-17T12:20:42+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/must_eats.html</loc>
+		<lastmod>2021-02-17T12:20:18+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/must_eats/asado.html</loc>
+		<lastmod>2021-02-17T12:23:40+00:00</lastmod>
+		<priority>0.51</priority>
+	</url>
+
+
 </urlset>

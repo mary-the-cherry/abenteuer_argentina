@@ -1,2 +1,3 @@
 ErrorDocument 404 https://www.abenteuer-argentina.de/404.html
-Redirect 301 https://abenteuer-argentina.de/index.html https://abenteuer-argentina.de/
+Redirect 301 https://www.abenteuer-argentina.de/index.html https://www.abenteuer-argentina.de/
+Redirect 301 https://www.abenteuer-argentina.de/index.html#argentina_covid_situation https://www.abenteuer-argentina.de/#argentina_covid_situation
