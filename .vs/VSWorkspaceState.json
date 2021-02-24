@@ -1,15 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\buenos_aires",
     "\\common",
+    "\\must_eats",
     "\\nordpatagonia",
     "\\reiseplanung",
-    "\\static",
-    "\\static\\css",
-    "\\static\\js",
     "\\suedpatagonia",
     "\\Update_Homepage"
   ],
-  "SelectedNode": "\\reiseplanung\\packliste_argentinien.html",
+  "SelectedNode": "\\buenos_aires.html",
   "PreviewInSolutionExplorer": false
 }
