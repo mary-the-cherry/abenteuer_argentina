@@ -389,6 +389,39 @@ modal-content:focus {
 
 }
 
+@media only screen and (min-width: 1150px) {
+    .inline_wrapper_7_cards {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+}
+
+@media only screen and (max-width: 1270px) {
+    .inline_wrapper_7_cards {
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        :: -webkit-scrollbar
+
+{
+    display: none;
+}
+
+}
+
+.inline_wrapper_7_cards .card {
+    display: inline-block;
+    width: 140px;
+}
+
+.card-title {
+    white-space: normal;
+}
+
+}
+
 .inline_wrapper_10_cards {
     overflow-x: auto;
     overflow-y: hidden;
