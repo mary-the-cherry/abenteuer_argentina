@@ -9,7 +9,7 @@
 
 	<url>
 		<loc>https://www.abenteuer-argentina.de/</loc>
-		<lastmod>2021-02-18T14:30:18+00:00</lastmod>
+		<lastmod>2021-04-25T14:10:18+00:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
@@ -19,7 +19,7 @@
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/nordpatagonien.html</loc>
-		<lastmod>2021-02-17T12:20:26+00:00</lastmod>
+		<lastmod>2021-04-25T12:20:26+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
@@ -121,6 +121,21 @@
 		<loc>https://www.abenteuer-argentina.de/nordpatagonia/nordpatagonien_wandern.html</loc>
 		<lastmod>2021-02-17T12:24:18+00:00</lastmod>
 		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/nordpatagonia/caviahue.html</loc>
+		<lastmod>2021-04-25T12:24:18+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/nordpatagonia/villa_pehuenia.html</loc>
+		<lastmod>2021-04-25T12:24:18+00:00</lastmod>
+		<priority>0.64</priority>
+	</url>
+	<url>
+		<loc>https://www.abenteuer-argentina.de/nordpatagonia/los_alerces.html</loc>
+		<lastmod>2021-04-25T12:24:18+00:00</lastmod>
+		<priority>0.1</priority>
 	</url>
 	<url>
 		<loc>https://www.abenteuer-argentina.de/buenos_aires/buenos_aires_4_tage.html</loc>
