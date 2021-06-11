@@ -28,7 +28,7 @@ Content:
 - New Page about Iguazu
 - Update Index Page about up-to-date Covid situation in Argentina 
 
-#### Release 3.0 (actual deployed)
+#### Release 3.0
 
 - Update Bariloche (Aussichtspunkt Llao Llao, Refugio Lopez) (Done)
 - Update Restaurants in Buenos Aires, Fotos for Parks in Buenos Aires
@@ -36,10 +36,11 @@ Content:
 - Add Hike to Waterfall in San Martin
 - Add Hike in Lanin
 
-#### Release 4.0 (planned)
+#### Release 4.0 (deployed)
 
 - Add Villa Pehuinia
 - Add Caviahue
+- Add Los Alerces
 - Update of Key Facts 
 
 ### Architecture
