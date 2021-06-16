@@ -9,12 +9,15 @@ window.cookieconsent.initialise({
     },
   },
   theme: 'classic',
-  position: 'bottom-right',
+    position: 'bottom-right',
+    type: "opt-in",
   content: {
     message:
-      'Du magst Cookies genauso gerne wie ich? Dann lasse dir Dank der essentiellen Cookies dieser Seite ein einmaliges Websiteerlebnis bescheren. ',
+      'Du magst Cookies genauso gerne wie ich? Dann lasse dir Dank der Cookies ein besseres Websiteerlebnis bescheren. ',
     link: 'Erfahre mehr über die Cookies!',
-    dismiss: 'Gib mir Cookies!',
+      dismiss: 'Nur essentielle Cookies',
+      allow:'Gib mir Cookies!',
+     deny: 'Nur essentielle Cookies',
     href: 'https://abenteuer-argentina.de/datenschutzerklaerung.html',
   },
 });
