@@ -7,8 +7,9 @@
     "\\nordpatagonia",
     "\\reiseplanung",
     "\\static",
-    "\\static\\css"
+    "\\static\\css",
+    "\\static\\js"
   ],
-  "SelectedNode": "\\key_facts.html",
+  "SelectedNode": "\\static\\css\\cookieconsent.css",
   "PreviewInSolutionExplorer": false
 }
