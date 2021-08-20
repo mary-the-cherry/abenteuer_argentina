@@ -6,10 +6,10 @@
     "\\must_eats",
     "\\nordpatagonia",
     "\\reiseplanung",
-    "\\static",
     "\\static\\css",
-    "\\static\\js"
+    "\\static\\images\\Trennstriche",
+    "\\suedpatagonia"
   ],
-  "SelectedNode": "\\static\\css\\cookieconsent.css",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
