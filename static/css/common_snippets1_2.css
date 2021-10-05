@@ -161,7 +161,7 @@
   padding: 1vh 1vw;
 }
 
-@media screen and (max-width: 575.98px) {
+@media screen and (max-width: 600px) {
   .footer-copyright {
     justify-content: center;
   }
