@@ -36,12 +36,16 @@ Content:
 - Add Hike to Waterfall in San Martin
 - Add Hike in Lanin
 
-#### Release 4.0 (deployed)
+#### Release 4.0 
 
 - Add Villa Pehuinia
 - Add Caviahue
 - Add Los Alerces
 - Update of Key Facts 
+
+#### Release 5.0 (deployed)
+
+- Updates Bariloche
 
 ### Architecture
 
@@ -52,7 +56,8 @@ Content:
 - Bootstrag 4.5
 - JQuery
 - Popper
-- CookieConsent from Osano
+- CookieConsent v2.4.7
+ * https://www.github.com/orestbida/cookieconsent
 
 ### Owner
 
